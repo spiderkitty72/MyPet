@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyPet</string>
+    <string name="channel_name">Pet calls</string>
+    <string name="channel_description">Lets you know when your pet needs you.</string>
+</resources>
