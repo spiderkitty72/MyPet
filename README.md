@@ -2,7 +2,8 @@
 
 An original retro virtual pet for Android, in the classic pocket-pet genre: hatch an egg,
 keep it fed, happy, clean and well-behaved, and the care you give decides what it grows into.
-An HTML5 version is planned; the game rules live in a plain Kotlin module so they can be shared.
+There is also an installable HTML5 version in [`web/`](web/README.md) that runs fully offline;
+its rules and sprites are ported from the same Kotlin module.
 
 All names, characters, pixel art and icons in this project are original. MyPet copies no
 trademarks, character designs, sprites, sounds, device shapes or menu layouts from any existing
